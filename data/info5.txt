@@ -1,0 +1,78 @@
+Successfully connected to : Serial<id=0x7f30839f4880, open=True>(port='/dev/ttyUSB0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=0.1, xonxoff=False, rtscts=False, dsrdtr=False)
+Unknown Register 256: 25 na
+Unknown Register 258: 65512 na
+Unknown Register 260: 0 na
+Unknown Register 262: 0 na
+Unknown Register 264: 27 na
+Unknown Register 266: 0 na
+Unknown Register 268: 0 na
+Unknown Register 270: 164 na
+Unknown Register 512: 0 na
+Unknown Register 514: 0 na
+Unknown Register 516: 0 na
+Unknown Register 518: 0 na
+Unknown Register 520: 0 na
+Unknown Register 522: 0 na
+Unknown Register 524: 4870 na
+Unknown Register 526: 4137 na
+Unknown Register 528: 5 na
+Unknown Register 530: 3110 na
+Unknown Register 532: 0 na
+Unknown Register 534: 1200 na
+Unknown Register 536: 5999 na
+Unknown Register 538: 0 na
+Unknown Register 540: 48 na
+Unknown Register 542: 0 na
+Unknown Register 544: 358 na
+Unknown Register 546: 491 na
+Unknown Register 548: 34 na
+Unknown Register 550: 0 na
+Unknown Register 552: 0 na
+Unknown Register 10: 65535 na
+No communication with the instrument (no answer)
+No communication with the instrument (no answer)
+device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+
+Ambient Temperature: 122.54 F
+Solar Temperature: 96.61999999999999 F
+Inv Temperature: 96.26 F
+Solar Voltage: 60.7 V
+Solar Current: 3.2 A
+Solar Power: 163 W
+Battery Voltage: 51.0 V
+Battery Power In: 16.3 W
+Battery Current: 6551.200000000001 A
+Inv Current: 0.5 A
+Inv Voltage: 120.10000000000001 V
+Inv VA: 48 VA
+Inv Power: 40 W
+Grid Voltage: 0.0 V
+Grid Current: 0.0 A

@@ -1,0 +1,77 @@
+Successfully connected to : Serial<id=0xffff9b0bbac0, open=True>(port='/dev/ttyUSB0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1.0, xonxoff=False, rtscts=False, dsrdtr=False)
+Ambient Temperature: 105.98 F
+Solar Temperature: 102.38000000000001 F
+Inv Temperature: 88.34 F
+Solar Voltage: 99.10000000000001 V
+Solar Current: 14.8 A
+Solar Power: 797 W
+Battery Voltage: 53.900000000000006 V
+Battery Power In: 79.7 W
+Battery Current: 6545.200000000001 A
+Inv Current: 3.8000000000000003 A
+Inv Voltage: 120.0 V
+Inv VA: 468 VA
+Inv Power: 321 W
+Grid Voltage: 0.0 V
+Grid Current: 0.0 A
+Register 258: 65445 na
+Register 264: 79 na
+Register 270: 797 na
+Register 526: 8248 na
+Register 530: 3229 na
+Register 540: 480 na
+Register 544: 391 na
+Register 546: 423 na
+Register 548: 148 na
+Unknown Register 256: 51 na
+Unknown Register 260: 0 na
+Unknown Register 262: 0 na
+Unknown Register 266: 0 na
+Unknown Register 268: 0 na
+Unknown Register 512: 0 na
+Unknown Register 514: 0 na
+Unknown Register 516: 0 na
+Unknown Register 518: 0 na
+Unknown Register 520: 0 na
+Unknown Register 522: 0 na
+Unknown Register 524: 4874 na
+Unknown Register 528: 5 na
+Unknown Register 532: 0 na
+Unknown Register 534: 1200 na
+Unknown Register 536: 5999 na
+Unknown Register 538: 0 na
+Unknown Register 542: 0 na
+Unknown Register 550: 0 na
+Unknown Register 552: 0 na
+Unknown Register 10: 65535 na
+Unknown Register 12: 0 na
+Unknown Register 14: 0 na
+Unknown Register 16: 0 na
+Unknown Register 18: 0 na
+Unknown Register 20: 514 na
+Unknown Register 22: 300 na
+Unknown Register 24: 0 na
+Unknown Register 26: 1 na
+Unknown Register 28: 0 na
+Unknown Register 30: 65535 na
+Unknown Register 32: 0 na
+Unknown Register 34: 112 na
+Unknown Register 36: 32 na
+Unknown Register 38: 55 na
+Unknown Register 40: 50 na
+Unknown Register 42: 50 na
+Unknown Register 44: 32 na
+Unknown Register 46: 57 na
+Unknown Register 48: 49 na
+Unknown Register 50: 58 na
+Unknown Register 52: 52 na
+Unknown Register 54: 82 na
+Unknown Register 56: 50 na
+Unknown Register 58: 48 na
+Unknown Register 60: 49 na
+Unknown Register 62: 48 na
+Unknown Register 64: 57 na
+Unknown Register 66: 45 na
+Unknown Register 68: 48 na
+Unknown Register 70: 53 na
+Unknown Register 72: 49 na

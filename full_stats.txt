@@ -1,0 +1,12 @@
+Cloudy day (no use for weeks, but fully charged)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Battery Voltage  =  52.9V
+Solar Voltage  =  125.3V
+Solar Current  =  0.0A
+Solar Power  =  0W
+Solar Temperature  =  66.2F
+Inv Power  =  35W
+Battery Power In  =  0.0W
+Battery Current  =  0.7A
+
+

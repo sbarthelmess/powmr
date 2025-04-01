@@ -1,0 +1,77 @@
+Successfully connected to : Serial<id=0xffffa61968e0, open=True>(port='/dev/ttyUSB0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1.0, xonxoff=False, rtscts=False, dsrdtr=False)
+Ambient Temperature: 103.28 F
+Solar Temperature: 101.48 F
+Inv Temperature: 86.9 F
+Solar Voltage: 100.9 V
+Solar Current: 15.4 A
+Solar Power: 830 W
+Battery Voltage: 53.900000000000006 V
+Battery Power In: 83.0 W
+Battery Current: 6544.6 A
+Inv Current: 3.9000000000000004 A
+Inv Voltage: 120.0 V
+Inv VA: 468 VA
+Inv Power: 309 W
+Grid Voltage: 0.0 V
+Grid Current: 0.0 A
+Unknown Register 256: 51 na
+Unknown Register 258: 65448 na
+Unknown Register 260: 0 na
+Unknown Register 262: 0 na
+Unknown Register 264: 82 na
+Unknown Register 266: 0 na
+Unknown Register 268: 0 na
+Unknown Register 270: 830 na
+Unknown Register 512: 0 na
+Unknown Register 514: 0 na
+Unknown Register 516: 0 na
+Unknown Register 518: 0 na
+Unknown Register 520: 0 na
+Unknown Register 522: 0 na
+Unknown Register 524: 4874 na
+Unknown Register 526: 1061 na
+Unknown Register 528: 5 na
+device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
+(5, 'Input/output error')
