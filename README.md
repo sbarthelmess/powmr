@@ -3,6 +3,8 @@ A complete inverter system app for gathering and monitoring your PV solar on-gri
 Simply connect over USB-B type connector directly to the controller and you can start reading data.  
 I've reversed engineered most of this from painfully reading registers and then checking on the actual PowMr device to see what it correlates to.
 
+<img width="200" align="right" src="www/solar_screenshot.png" />
+
 # NEW UPDATES
 - Created powmr-multi.py, to handle multiple inverters.  Tricky since the USB order can change everytime you connect so I do some fancy device enumeration and tests to ensure they are the devices you expect.  Simple configuration inside the powmr-multi.py.
 - Cool new website using uwsgi instead of weak Python-only flask webserver.
