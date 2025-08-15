@@ -1,0 +1,19 @@
+    [Unit]
+    Description=uWSGI instance for PowMr
+    After=network.target
+
+    [Service]
+    User=seb
+    Group=seb
+    WorkingDirectory=/opt/powmr/venv
+    #ExecStartPre=/bin/mkdir -p /run/uwsgi
+    #ExecStartPre=/bin/chown seb:seb /run/uwsgi
+    ExecStart=/opt/powmr/venv/bin/uwsgi --ini /opt/powmr/venv/powmr.ini
+    Restart=always
+    KillSignal=SIGQUIT
+    Type=notify
+    StandardError=syslog
+    NotifyAccess=all
+
+    [Install]
+    WantedBy=multi-user.target
